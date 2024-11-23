@@ -1,0 +1,67 @@
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\bin\Debug\روح وريحان.exe.config
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\bin\Debug\روح وريحان.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\bin\Debug\روح وريحان.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarAfterSalawat.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarMasa2.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkaroSaba7.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkar.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarSalat.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarSleep.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmHome.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmKhatmL9or2an.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmMain.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmMawaqitSalat.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmQuran.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmTasbi7.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.Properties.Resources.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.Up2Date
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.pdb
+D:\Programming\C# Projects\روح وريحان\bin\Debug\روح وريحان.exe.config
+D:\Programming\C# Projects\روح وريحان\bin\Debug\روح وريحان.exe
+D:\Programming\C# Projects\روح وريحان\bin\Debug\روح وريحان.pdb
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.AssemblyReference.cache
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarAfterSalawat.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarMasa2.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkaroSaba7.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkar.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarSalat.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarSleep.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmHome.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmKhatmL9or2an.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmMain.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmMawaqitSalat.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmQuran.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.frmTasbi7.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح_وريحان.Properties.Resources.resources
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.GenerateResource.cache
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.csproj.Up2Date
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.exe
+D:\Programming\C# Projects\روح وريحان\obj\Debug\روح وريحان.pdb
+D:\Programmer\C# net Projects\روح وريحان\bin\Debug\روح وريحان.exe.config
+D:\Programmer\C# net Projects\روح وريحان\bin\Debug\روح وريحان.exe
+D:\Programmer\C# net Projects\روح وريحان\bin\Debug\روح وريحان.pdb
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح وريحان.csproj.AssemblyReference.cache
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarAfterSalawat.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarMasa2.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkaroSaba7.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkar.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarSalat.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmAzkarSleep.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmHome.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmKhatmL9or2an.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmMain.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmMawaqitSalat.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmQuran.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.frmTasbi7.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح_وريحان.Properties.Resources.resources
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح وريحان.csproj.GenerateResource.cache
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح وريحان.csproj.CoreCompileInputs.cache
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح وريحان.csproj.Up2Date
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح وريحان.exe
+D:\Programmer\C# net Projects\روح وريحان\obj\Debug\روح وريحان.pdb

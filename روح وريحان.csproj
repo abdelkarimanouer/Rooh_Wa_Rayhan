@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CF42999-EAEA-4B46-804E-ECE9CF54BC8D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>روح_وريحان</RootNamespace>
+    <AssemblyName>روح وريحان</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Library\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAzkarAfterSalawat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzkarAfterSalawat.Designer.cs">
+      <DependentUpon>frmAzkarAfterSalawat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAzkarMasa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzkarMasa2.Designer.cs">
+      <DependentUpon>frmAzkarMasa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAzkaroSaba7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzkaroSaba7.Designer.cs">
+      <DependentUpon>frmAzkaroSaba7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAzkar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzkar.Designer.cs">
+      <DependentUpon>frmAzkar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAzkarSalat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzkarSalat.Designer.cs">
+      <DependentUpon>frmAzkarSalat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAzkarSleep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzkarSleep.Designer.cs">
+      <DependentUpon>frmAzkarSleep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhatmL9or2an.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhatmL9or2an.Designer.cs">
+      <DependentUpon>frmKhatmL9or2an.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMawaqitSalat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMawaqitSalat.Designer.cs">
+      <DependentUpon>frmMawaqitSalat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuran.Designer.cs">
+      <DependentUpon>frmQuran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTasbi7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTasbi7.Designer.cs">
+      <DependentUpon>frmTasbi7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAzkarAfterSalawat.resx">
+      <DependentUpon>frmAzkarAfterSalawat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAzkarMasa2.resx">
+      <DependentUpon>frmAzkarMasa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAzkaroSaba7.resx">
+      <DependentUpon>frmAzkaroSaba7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAzkar.resx">
+      <DependentUpon>frmAzkar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAzkarSalat.resx">
+      <DependentUpon>frmAzkarSalat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAzkarSleep.resx">
+      <DependentUpon>frmAzkarSleep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhatmL9or2an.resx">
+      <DependentUpon>frmKhatmL9or2an.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMawaqitSalat.resx">
+      <DependentUpon>frmMawaqitSalat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuran.resx">
+      <DependentUpon>frmQuran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTasbi7.resx">
+      <DependentUpon>frmTasbi7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
